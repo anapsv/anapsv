@@ -37,6 +37,8 @@ My name is Ana Paula Silva. I'm studying in a FullStack Development Bootcamp at 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="40" style="vertical-align:top; margin:4px"/>
 </p>
 
+
+
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapsv&theme=tokyonight)
