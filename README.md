@@ -20,3 +20,7 @@ My name is Ana Paula Silva. I'm studying in a FullStack Development Bootcamp at 
 👨‍💻 Front-end Web Developer<br/>
 📫 How to reach me: anapsilva@gmail.com<br/>
 ⚡ Fun fact: I was actually a Veterinary Medicine student at UFPR, but I discovered web development around the middle of my graduation and completely fell in love. I don't ever want to go back now!
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapsv&theme=tokyonight)
