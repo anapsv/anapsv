@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ana 👋
 
 <!--
 **anapsv/anapsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Ana Paula Silva. I'm studying in a FullStack Development Bootcamp at Driven Education.
+
+👨‍💻 Front-end Web Developer
+📫 How to reach me: anapsilva@gmail.com
+⚡ Fun fact: I was actually a Veterinary Medicine student at UFPR, but I discovered web development around the middle of my graduation and completely fell in love. I don't ever want to go back now!
