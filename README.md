@@ -1,25 +1,10 @@
-### Hi there, I'm Ana (she/her) ✌️ 🌼
-
-<!--
-**anapsv/anapsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm Ana Paula Silva (she/her) ✌️ 🌼
 
 👨‍💻 Full Stack Web Developer<br/>
 💬 How to reach me:<br />
-anapsilva@gmail.com 📬<br/>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapsv//)](https://www.linkedin.com/in/anapsv/)<br />
-😆 Fun fact: I was actually a Veterinary Medicine student at UFPR, but I came across web development around the middle of my graduation and <b >completely</b> fell in love 💘. I don't ever want to go back now!
+- anapsilva@gmail.com 📬<br/>
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapsv//)](https://www.linkedin.com/in/anapsv/)<br />
+😆 Fun fact: I was actually a Veterinary Medicine student at UFPR, but I came across web development around the middle of my graduation and **completely** fell in love 💘. I don't ever want to go back now!
 
 <br/>
 
