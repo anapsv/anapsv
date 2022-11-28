@@ -1,4 +1,4 @@
-### Hi there, I'm Ana Paula Silva (she/her) ✌️ 🌼
+### Hi there, I'm Ana (she/her) ✌️ 🌼
 
 <!--
 **anapsv/anapsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
