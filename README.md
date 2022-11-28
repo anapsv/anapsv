@@ -9,8 +9,6 @@
 - anapsilva@gmail.com 📬<br/>
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapsv//)](https://www.linkedin.com/in/anapsv/)<br/>
 
-<br/>
-
 ## 🧰 🛠️ Languages and Tools:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
