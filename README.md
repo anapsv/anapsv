@@ -1,4 +1,4 @@
-### Hi there, I'm Ana ✌️ 🌼
+### Hi there, I'm Ana (she/her) ✌️ 🌼
 
 <!--
 **anapsv/anapsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 💬 How to reach me:<br />
 anapsilva@gmail.com 📬<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapsv//)](https://www.linkedin.com/in/anapsv/)<br />
-⚡ Fun fact: I was actually a Veterinary Medicine student at UFPR, but I came across web development around the middle of my graduation and <b >completely</b> fell in love. I don't ever want to go back now!
+😆 Fun fact: I was actually a Veterinary Medicine student at UFPR, but I came across web development around the middle of my graduation and <b >completely</b> fell in love 💘. I don't ever want to go back now!
 
 <br/>
 
