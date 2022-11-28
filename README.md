@@ -1,10 +1,13 @@
 # Hi there, I'm Ana (she/her) ✌️ 🌼
 
 👨‍💻 Full Stack Web Developer<br/>
-💬 How to reach me:<br/>
+🕹️ I'm currently working on (and also having fun with) a personal project that can help anyone find a bar/night club that is just what they were looking for to have fun <br/>
+🎯 One of my goals is to learn more technologies and especially team dynamics, communication and coordination<br/>
+😆 Fun fact: I was actually a Veterinary Medicine student at UFPR, but I came across web development around the middle of my graduation and **completely** fell in love 💘. I don't ever want to go back now!<br/>
+
+## 💬 How to reach me:<br/>
 - anapsilva@gmail.com 📬<br/>
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapsv//)](https://www.linkedin.com/in/anapsv/)<br/> -
-😆 Fun fact: I was actually a Veterinary Medicine student at UFPR, but I came across web development around the middle of my graduation and **completely** fell in love 💘. I don't ever want to go back now!
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapsv//)](https://www.linkedin.com/in/anapsv/)<br/>
 
 <br/>
 
