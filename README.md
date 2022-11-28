@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 👨‍💻 Full Stack Web Developer<br/>
 📫 How to reach me: anapsilva@gmail.com<br/>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapsv//)](https://www.linkedin.com/in/anapsv/)
 ⚡ Fun fact: I was actually a Veterinary Medicine student at UFPR, but I discovered web development around the middle of my graduation and completely fell in love. I don't ever want to go back now!
 
 <br/>
